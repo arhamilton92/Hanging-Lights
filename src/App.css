@@ -1,38 +1,56 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+    font-family: 'Nunito', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#white-title {
+    color: whitesmoke;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#userbox {
+    background: linear-gradient(90deg, rgba(233, 254, 255, 0.7) 20%, rgba(255, 233, 243, 0.7) 100%);
+    width: 90%;
+    border-radius: 30px;
+    border-color: rgb(55, 50, 70);
+    border-width: 10px;
+    border-style: solid;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#profile-name {
+    font-weight: 900;
+    color: rgb(55, 50, 70);
 }
 
-.App-link {
-  color: #61dafb;
+#iconbox {
+    background-color: rgba(254, 254, 255, 0.4);
+    border-radius: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.navbar {
+    background: linear-gradient(90deg, rgb(227, 254, 255), rgb(255, 206, 226) );
+}
+
+.parent {
+    display: grid;
+    place-items: center;
+}
+
+.automargin {
+align-self:center;
+}
+
+.page-header {
+    background-color: rgb(35, 33, 43, 0.7);
+    width:100%;
+    text-align:center;
+}
+
+.title {
+    text-align: center;
+    size: 1.2em;
+    font-weight: bold;
+    background: linear-gradient(90deg, rgb(149, 250, 255), rgb(255, 182, 213) );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
