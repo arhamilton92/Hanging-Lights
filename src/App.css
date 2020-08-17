@@ -4,6 +4,7 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
+
 #white-title {
     color: whitesmoke;
 }
@@ -34,10 +35,7 @@ body {
 .parent {
     display: grid;
     place-items: center;
-}
-
-.automargin {
-align-self:center;
+    text-align:center
 }
 
 .page-header {

@@ -36,19 +36,23 @@ function App() {
                 </div>
               </div>
 
-              {/* tasks */}
-              <div className="row mt-3">
+              {/* tasks editing comment */}
+              <div className="row mt-3 justify-content-center">
                 <div className="col-sm-0 col-md-0 col-lg-2"></div>
-                <div className="col parent">
+                <div className="col parent mb-2 mt-2">
+                  <h5>EXPLORING   00:00</h5>
                   <img src={icon} id="iconbox"></img>
                 </div>
-                <div className="col parent">
+                <div className="col parent mb-2 mt-2">
+                  <h5>GARDENING 00:00</h5>
                   <img src={icon} id="iconbox"></img>
                 </div>
-                <div className="col parent">
+                <div className="col parent mb-2 mt-2">
+                <h5>FISHING 00:00</h5>
                   <img src={icon} id="iconbox"></img>
                 </div>
-                <div className="col parent">
+                <div className="col parent mb-2 mt-2">
+                  <h5>EXPLORING 00:00</h5>
                   <img src={icon} id="iconbox"></img>
                 </div>
                 <div className="col-sm-0 col-md-0 col-lg-2"></div>
