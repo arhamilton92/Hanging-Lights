@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Hanging-Lights/static/css/main.5f1d7f1c.chunk.css",
-    "main.js": "/Hanging-Lights/static/js/main.e33cd9ba.chunk.js",
-    "main.js.map": "/Hanging-Lights/static/js/main.e33cd9ba.chunk.js.map",
+    "main.css": "/Hanging-Lights/static/css/main.e3f7da5c.chunk.css",
+    "main.js": "/Hanging-Lights/static/js/main.220831fd.chunk.js",
+    "main.js.map": "/Hanging-Lights/static/js/main.220831fd.chunk.js.map",
     "runtime-main.js": "/Hanging-Lights/static/js/runtime-main.315a1392.js",
     "runtime-main.js.map": "/Hanging-Lights/static/js/runtime-main.315a1392.js.map",
     "static/js/2.31947069.chunk.js": "/Hanging-Lights/static/js/2.31947069.chunk.js",
     "static/js/2.31947069.chunk.js.map": "/Hanging-Lights/static/js/2.31947069.chunk.js.map",
     "index.html": "/Hanging-Lights/index.html",
-    "precache-manifest.b405dbc0db181d36cb005f923c9c4549.js": "/Hanging-Lights/precache-manifest.b405dbc0db181d36cb005f923c9c4549.js",
+    "precache-manifest.80257f782125fd32cbb16a0fbb9d8610.js": "/Hanging-Lights/precache-manifest.80257f782125fd32cbb16a0fbb9d8610.js",
     "service-worker.js": "/Hanging-Lights/service-worker.js",
-    "static/css/main.5f1d7f1c.chunk.css.map": "/Hanging-Lights/static/css/main.5f1d7f1c.chunk.css.map",
+    "static/css/main.e3f7da5c.chunk.css.map": "/Hanging-Lights/static/css/main.e3f7da5c.chunk.css.map",
     "static/js/2.31947069.chunk.js.LICENSE.txt": "/Hanging-Lights/static/js/2.31947069.chunk.js.LICENSE.txt",
     "static/media/batsy.png": "/Hanging-Lights/static/media/batsy.7de2e504.png"
   },
   "entrypoints": [
     "static/js/runtime-main.315a1392.js",
     "static/js/2.31947069.chunk.js",
-    "static/css/main.5f1d7f1c.chunk.css",
-    "static/js/main.e33cd9ba.chunk.js"
+    "static/css/main.e3f7da5c.chunk.css",
+    "static/js/main.220831fd.chunk.js"
   ]
 }
