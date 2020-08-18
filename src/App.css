@@ -18,6 +18,8 @@ body {
 
 .center {
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .profile-button {
@@ -52,6 +54,28 @@ body {
     font-weight: 1000;
   }
 
+  .nav-icon {
+      width: 90px;
+      margin-right: none;
+      margin-left: none;
+      padding-right: none;
+      padding-left: none;
+  }
+
+  .nav-element {
+      width: 90px;
+      height: 90px;
+    margin-right: none;
+    margin-left: none;
+    padding-right: none;
+    padding-left: none;
+  }
+
+  .dot {
+      margin-top: auto;
+      margin-bottom: auto;
+      width: 50px;
+  }
 
 #white-title {
     color: whitesmoke;
@@ -94,7 +118,7 @@ body {
 }
 
 #taskbox {
-    background-color: rgba(254, 254, 255, 0.4);
+    background-color: rgba(195, 186, 221, 0.2);
     border-radius: 10px;
 }
 
