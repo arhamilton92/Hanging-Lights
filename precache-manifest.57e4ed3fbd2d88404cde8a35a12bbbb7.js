@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "589c9af852992eb2d4c9103c272bfee0",
+    "revision": "1cf6f48d125b4fa1dfa25b9ad3f1b34f",
     "url": "/Hanging-Lights/index.html"
   },
   {
