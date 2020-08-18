@@ -8,15 +8,48 @@ body {
     margin: none;
 }
 
+.align-left {
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
 .profile-button {
     font-weight:bold;
+    margin: auto;
 }
 
 .profile-button:hover {
-    background-color: yellow;
     background: linear-gradient(90deg, rgb(149, 250, 255), rgb(255, 182, 213) );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    cursor: pointer;
+    font-weight: 1000;
+  }
+
+ .nav-button {
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+ }
+ 
+ .nav-button-color {
+    color:rgb(45, 40, 58);
+    font-weight: 900;
+ }
+
+ .nav-button-color:hover {
+    background: linear-gradient(90deg, rgb(149, 250, 255), rgb(255, 182, 213) );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    cursor: pointer;
+    font-weight: 1000;
   }
 
 
@@ -37,6 +70,15 @@ body {
     width: 90%;
     color: rgb(185, 180, 206);
     background-color: rgba(52, 44, 61, 0.6);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#display-nav {
+    background-color:  rgb(55, 50, 70);
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
@@ -70,13 +112,22 @@ body {
     background-color: rgb(35, 33, 43, 0.7);
     width:100%;
     text-align:center;
+    border-color: rgb(45, 40, 58);
+    border-width: 10px;
+    border-bottom-style: solid;
+    border-top-style: solid;
 }
 
 .title {
-    text-align: center;
     size: 20px;
     font-weight: bold;
     background: linear-gradient(90deg, rgb(149, 250, 255), rgb(255, 182, 213) );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+.title-button {
+    size: 20px;
+    font-weight: bold;
+    color: rgb(17, 17, 20);
 }
