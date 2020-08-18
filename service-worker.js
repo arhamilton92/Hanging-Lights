@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Hanging-Lights/precache-manifest.d230ea6fd8a631165710582b01952532.js"
+  "/Hanging-Lights/precache-manifest.5b117f3dc3f7aa2857ee9ee436f94d37.js"
 );
 
 self.addEventListener('message', (event) => {
