@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68cd041707888ce8ac1b02bb31da2d1a",
+    "revision": "d06ac2688eda2887be5a7363b0c1b8a3",
     "url": "/Hanging-Lights/index.html"
   },
   {
-    "revision": "1c87428246b20f1f092c",
+    "revision": "28bfd53e412a8ec74e18",
     "url": "/Hanging-Lights/static/css/main.5f1d7f1c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hanging-Lights/static/js/2.31947069.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c87428246b20f1f092c",
-    "url": "/Hanging-Lights/static/js/main.a1695be2.chunk.js"
+    "revision": "28bfd53e412a8ec74e18",
+    "url": "/Hanging-Lights/static/js/main.e33cd9ba.chunk.js"
   },
   {
     "revision": "65988bfa750d8753776b",
