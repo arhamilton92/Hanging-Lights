@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Hanging-Lights/static/css/main.378bc564.chunk.css",
+    "main.css": "/Hanging-Lights/static/css/main.d38327f0.chunk.css",
     "main.js": "/Hanging-Lights/static/js/main.8221654a.chunk.js",
     "main.js.map": "/Hanging-Lights/static/js/main.8221654a.chunk.js.map",
     "runtime-main.js": "/Hanging-Lights/static/js/runtime-main.315a1392.js",
@@ -8,16 +8,16 @@
     "static/js/2.31947069.chunk.js": "/Hanging-Lights/static/js/2.31947069.chunk.js",
     "static/js/2.31947069.chunk.js.map": "/Hanging-Lights/static/js/2.31947069.chunk.js.map",
     "index.html": "/Hanging-Lights/index.html",
-    "precache-manifest.5b117f3dc3f7aa2857ee9ee436f94d37.js": "/Hanging-Lights/precache-manifest.5b117f3dc3f7aa2857ee9ee436f94d37.js",
+    "precache-manifest.630068992575017ab2f49a4b2d4b463c.js": "/Hanging-Lights/precache-manifest.630068992575017ab2f49a4b2d4b463c.js",
     "service-worker.js": "/Hanging-Lights/service-worker.js",
-    "static/css/main.378bc564.chunk.css.map": "/Hanging-Lights/static/css/main.378bc564.chunk.css.map",
+    "static/css/main.d38327f0.chunk.css.map": "/Hanging-Lights/static/css/main.d38327f0.chunk.css.map",
     "static/js/2.31947069.chunk.js.LICENSE.txt": "/Hanging-Lights/static/js/2.31947069.chunk.js.LICENSE.txt",
     "static/media/batsy.png": "/Hanging-Lights/static/media/batsy.7de2e504.png"
   },
   "entrypoints": [
     "static/js/runtime-main.315a1392.js",
     "static/js/2.31947069.chunk.js",
-    "static/css/main.378bc564.chunk.css",
+    "static/css/main.d38327f0.chunk.css",
     "static/js/main.8221654a.chunk.js"
   ]
 }
