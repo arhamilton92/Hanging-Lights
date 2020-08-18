@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 
 import icon from './images/Flora.png'
+import garwyvern from './images/batsy.png'
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
 <div class="container-fluid page-header justify-content-center pt-2">
             <div class="row">
                 <div class ="col-12">
-            <h1 class="display-4 title p-4">HANGING LIGHTS</h1>
+            <h1 class="title p-4">HANGING LIGHTS</h1>
             <p></p>
         </div>
     </div>
@@ -35,29 +36,61 @@ function App() {
                   </div>
                 </div>
               </div>
-
-              {/* tasks editing comment */}
-              <div className="row mt-3 justify-content-center">
-                <div className="col-sm-0 col-md-0 col-lg-2"></div>
-                <div className="col parent mb-2 mt-2">
-                  <h5>EXPLORING   00:00</h5>
-                  <img src={icon} id="iconbox"></img>
-                </div>
-                <div className="col parent mb-2 mt-2">
-                  <h5>GARDENING 00:00</h5>
-                  <img src={icon} id="iconbox"></img>
-                </div>
-                <div className="col parent mb-2 mt-2">
-                <h5>FISHING 00:00</h5>
-                  <img src={icon} id="iconbox"></img>
-                </div>
-                <div className="col parent mb-2 mt-2">
-                  <h5>EXPLORING 00:00</h5>
-                  <img src={icon} id="iconbox"></img>
-                </div>
-                <div className="col-sm-0 col-md-0 col-lg-2"></div>
-              </div>
             </div>
+          </div>
+          <div className="row p-3 pb-5" id="display">
+            <div className="col-12">
+            <div className="row mb-5">
+                <div className="col-12">
+                  <div className="row">
+                    <div className="col-sm-0 col-md-2"></div>
+                    <div className="col parent">
+                      <h3 className="profile-button">CHARACTERS</h3>
+                    </div>
+                    <div className="col parent">
+                      <h3 className="profile-button">CHARACTERS</h3>
+                    </div>
+                    <div className="col parent">
+                      <h3 className="profile-button">CHARACTERS</h3>
+                    </div>
+                    <div className="col parent">
+                      <h3 className="profile-button">CHARACTERS</h3>
+                    </div>
+                    <div className="col-sm-0 col-md-2"></div>
+                  </div>
+                </div>
+            </div>
+
+              <div className="row">
+                <div className="col-12">
+                  {/* tasks editing comment */}
+                  <div className="row justify-content-center">
+                    <div className="col-sm-0 col-md-0 col-lg-2"></div>
+                    <div className="col parent">
+                      <p className="m-0 p-0">EXPLORING</p>
+                      <p className="m-0 p-0 mb-2">00:00</p>
+                      <img src={garwyvern} id="taskbox"></img>
+                    </div>
+                    <div className="col parent ">
+                      <p className="m-0 p-0">GARDENING</p>
+                      <p className="m-0 p-0 mb-2">00:00</p>
+                      <img src={garwyvern} id="taskbox"></img>
+                    </div>
+                    <div className="col parent">
+                      <p className="m-0 p-0">FISHING</p>
+                      <p className="m-0 p-0 mb-2">00:00</p>
+                      <img src={garwyvern} id="taskbox"></img>
+                    </div>
+                    <div className="col parent">
+                      <p className="m-0 p-0">EXPLORING</p>
+                      <p className="m-0 p-0 mb-2">00:00</p>
+                      <img src={garwyvern} id="taskbox"></img>
+                    </div>
+                    <div className="col-sm-0 col-md-0 col-lg-2"></div>
+                  </div>
+                </div>
+            </div>
+          </div>
           </div>
       </div>
     </div>
